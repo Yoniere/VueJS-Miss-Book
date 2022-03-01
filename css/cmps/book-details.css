@@ -1,0 +1,21 @@
+.expensive {
+    color: red;
+}
+
+.cheap {
+    color: green;
+}
+
+.book-details button {
+    background-color: #FF8AAE;
+    border-radius: 0.4rem;
+    font-family: cursive;
+}
+
+.book-details {
+    padding: 16px;
+    background-color: #FFF89A;
+    border-radius: 1rem;
+    margin-top: 15px;
+    width: 500px;
+}

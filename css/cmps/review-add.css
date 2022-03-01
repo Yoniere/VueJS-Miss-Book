@@ -1,0 +1,12 @@
+.review {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    background-color: #FFB2A6;
+    border-radius: 1rem;
+}
+
+.reviews-title {
+    text-align: center;
+    margin: auto;
+}

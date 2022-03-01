@@ -1,0 +1,33 @@
+@import 'cmps/app-footer.css';
+@import 'cmps/app-header.css';
+@import 'cmps/book-list.css';
+@import 'cmps/book-preview.css';
+@import 'cmps/book-details.css';
+@import 'cmps/home-page.css';
+@import 'cmps/review-add.css';
+.user-msg {
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    padding: 10px;
+}
+
+.success {
+    background-color: lightgreen;
+}
+
+.error {
+    background-color: red;
+    color: white;
+}
+
+.router-link-exact-active {
+    color: brown;
+}
+
+body {
+    background-color: #9ADCFF;
+    font-family: cursive;
+}
+
+.app-main {}

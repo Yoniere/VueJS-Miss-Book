@@ -1,0 +1,10 @@
+.book-preview p {
+    margin: 20px;
+    /* flex-basis: 50%; */
+}
+
+.book-preview img {
+    width: 100px;
+    height: 100px;
+    border-radius: 1rem;
+}

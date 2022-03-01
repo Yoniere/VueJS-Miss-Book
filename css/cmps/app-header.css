@@ -1,0 +1,20 @@
+    .app-header {
+        background-color: #FF8AAE;
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem;
+        border-radius: 1rem;
+        font-size: 1.3rem;
+        align-items: center;
+        height: 55px;
+    }
+    
+    .app-header nav {
+        padding: inherit;
+    }
+    
+    .app-header nav a {
+        margin-right: 10px;
+        text-decoration: none;
+        font-weight: bold;
+    }

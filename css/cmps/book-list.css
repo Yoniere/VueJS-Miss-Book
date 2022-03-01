@@ -1,0 +1,38 @@
+.books {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.books li {
+    /* flex-basis: 49%; */
+    width: 160px;
+    height: 300px;
+    background-color: #FFF89A;
+    border-radius: 1.5rem;
+    border: 1px solid #FF8AAE;
+    margin: 10px;
+    text-align: center;
+    font-family: cursive;
+    position: relative;
+}
+
+.books li button {
+    position: absolute;
+    left: 31%;
+    bottom: 5%;
+    background-color: #FF8AAE;
+    border-radius: 0.4rem;
+    font-family: cursive;
+}
+
+.books li .price {
+    position: absolute;
+    bottom: 10%;
+}
+
+.books li .book-image {
+    position: absolute;
+    bottom: 32%;
+    left: 19%;
+}
